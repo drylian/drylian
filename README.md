@@ -23,3 +23,5 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-420e04.svg?logo=git&logoColor=white"></a>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-be6002?logo=stack-overflow&logoColor=white"></a>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0f4622.svg?logo=visual-studio-code&logoColor=white"></a>
+
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=drylian&color=blue" alt="Visualizações no Perfil"/></p>
