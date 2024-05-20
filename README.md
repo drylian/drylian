@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/drylian/drylian/assets/109999325/fc36b611-9ea4-4170-933c-084922471635" width="200"/>
-</div>
-
-<div id="header" align="center">
-    <h1>Alternight</h1>
+    <h1>Core-ALT</h1>
 </div>
 
 <div id="header" align="center">
